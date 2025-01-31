@@ -1,6 +1,6 @@
 #!/bin/bash
 
-location = $dir
+location='basics'
 
-echo "My current working directory is: $(dir)"
+echo "My current working directory is: $location"
 
